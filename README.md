@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Michał Kierzynkowski</h1>
 
-<!--
-**MichalKierzynkowski/MichalKierzynkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>C# / .NET · Web APIs &amp; full-stack projects</strong></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/micha%C5%82-kierzynkowski-20bb76222/">LinkedIn ↗</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web apps with C# and .NET. My side projects include a board game price tracker and a football prediction game for friends.
+
+**Tools I use** · C# · .NET · React · TypeScript · PostgreSQL · Docker
+
+## Selected projects
+
+### BoardDeal · Private repository
+
+Board game deal finder for Polish retailers. Compare offers for the same edition, filter by store or availability, and check price history before buying.
+
+### Virtual Betting · Private repository
+
+A football prediction game with virtual credits, match odds, bet settlement, and leaderboards. Built with .NET 10, React, TypeScript, and PostgreSQL.
+
